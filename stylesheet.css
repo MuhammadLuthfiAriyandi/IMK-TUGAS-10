@@ -1,0 +1,29 @@
+body{
+font-family: 'Roboto', sans-serif;
+background-color: tomato;
+
+}
+<style>
+	.Awk{
+		text-align: center;
+		color: purple;
+	}	
+	.isiBiodata {
+		border: dashed;
+		padding: 25px;
+		color:  white;
+		font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	}
+	.table {
+		border: dashed;
+		padding: 25px;
+		color:  #006400;
+		font-family: "Times New Roman", Times, serif;
+	}
+	#pendidikan {
+		border: dashed;
+		padding: 25px;
+		color: #00BFFF;
+		font-family: Georgia, serif;
+	}
+</style>
